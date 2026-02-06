@@ -5,4 +5,4 @@ This is a demo for git &amp; github class.
 Shradha khapra
 
 #Student
-Abhaya Kumar Blaiarsingh
+Abhaya Kumar Blaiarsing
